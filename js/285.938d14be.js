@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkura_web"]=self["webpackChunkura_web"]||[]).push([[285],{9285:function(e,n,a){a.r(n),a.d(n,{default:function(){return h}});var r=a(6768);const u={class:"facexr"},c=(0,r.Lk)("h1",null,"This is an Face XR Sample page",-1),s=[c];function t(e,n){return(0,r.uX)(),(0,r.CE)("div",u,s)}var f=a(1241);const i={},l=(0,f.A)(i,[["render",t]]);var h=l}}]);
+//# sourceMappingURL=285.938d14be.js.map
